@@ -51,6 +51,10 @@ Joe Gray: https://www.theosintion.com/
 
 KASE Scenarios: https://kasescenarios.com
 
+Intel Techniques: https://inteltechniques.com/training.html
+
+OSINT Combine: https://www.osintcombine.com/training
+
 ## Newsletters
 
 The OSINT Newsletter by Jake Creps: https://osintnewsletter.com
