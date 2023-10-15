@@ -18,7 +18,7 @@ Password Breaches: https://haveibeenpwned.com/
 
 Password Breaches: https://dehashed.com
 
-Kasm - Disposable browsers and other isolated tools - https://kasmweb.dom
+Kasm - Disposable browsers and other isolated tools - https://kasmweb.com
 
 ## Books and Blog Posts
 Michael Bazzell "OSINT Techniques": https://inteltechniques.com/book1.html
@@ -63,6 +63,9 @@ The OSINT Newsletter by Jake Creps: https://osintnewsletter.com
 Bellingcat - OSINT Journalism and Investigations: https://bellingcat.com
 
 Operation Safe Escape - Hack4Good Organization: https://safeescape.org
+
+## Collections
+Oh Shint! Collection: https://github.com/OhShINT/ohshint.gitbook.io
 
 ## Key Takeaways 
 * Planning, Planning, Planning
