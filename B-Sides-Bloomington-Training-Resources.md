@@ -38,6 +38,8 @@ Sock Puppet Webinar: https://www.youtube.com/watch?v=EEeJcZhxAf4
 
 ConINT Catalog: https://www.youtube.com/@conINT_io/videos
 
+Benjamin Strick Tutorials: https://www.youtube.com/@Bendobrown/videos
+
 ## Podcasts
 Breadcrumbs by Trace Labs: https://podcasts.apple.com/us/podcast/breadcrumbs-by-trace-labs/id1542092539
 
