@@ -12,13 +12,17 @@ Email and Username Pivoting: https://epieos.com/
 
 Email and Username Pivoting: https://osint.industries
 
+Email and Username Pivoting: https://castrickclues.com
+
 Reverse Image Lookup: https://pimeyes.com/en
+
+Reverse Image Lookup: https://facecheck.id
 
 Password Breaches: https://haveibeenpwned.com/
 
 Password Breaches: https://dehashed.com
 
-Kasm - Disposable browsers and other isolated tools - https://kasmweb.com
+Disposable browsers and other isolated tools - https://kasmweb.com
 
 ## Books and Blog Posts
 Michael Bazzell "OSINT Techniques": https://inteltechniques.com/book1.html
